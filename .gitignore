@@ -3,6 +3,7 @@ target/
 log
 build_submitter.log
 output
+out
 
 ### STS ###
 .apt_generated
